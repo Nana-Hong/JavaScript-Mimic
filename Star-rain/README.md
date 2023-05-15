@@ -3,9 +3,11 @@
 
 Mimic: https://mimicproject.com/code/5ff3dc15-e1f0-9c95-0508-20f25094505a
 
-https://git.arts.ac.uk/storage/user/588/files/f0930a2a-360e-47fd-9d97-2479284d77cd
 
-Video:https://www.youtube.com/watch?v=YdKzyuNoHtQ 
+<img width="798" alt="截屏2023-05-15 02 11 54" src="https://github.com/Nana-Hong/JavaScript-Mimic/assets/119884327/ac1b3972-5c77-4b39-a45a-a5a2e9891ae1">
+
+Demo Video: https://www.youtube.com/watch?v=YdKzyuNoHtQ
+
 
 3D star rain I used the 3D transformations I learned in Lesson 6, mainly using only Three.js to make a different scene where stars fall from the sky. Actually, at first I set up the petals falling scene, but the effect was too generic, so I replaced it with a shower of stars. Since I wanted to make the effect of the galaxy in the universe, but it was too complicated and always failed, so I gave up using the particle loop to show the effect, and then used the star texture to show the star group. Although this is not the most complicated one in my project, but I feel it is the best looking one.
 
