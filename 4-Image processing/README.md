@@ -1,5 +1,5 @@
-# Week4
-## image processing(1)
+# Image processing
+## (1)
 
 Mimic: https://mimicproject.com/code/52c663b3-84e3-403e-79bc-d0aee962bce2
 
@@ -7,7 +7,7 @@ Mimic: https://mimicproject.com/code/52c663b3-84e3-403e-79bc-d0aee962bce2
 
 <img height="400" alt="截屏2023-05-13 16 59 09" src="https://git.arts.ac.uk/storage/user/588/files/b08e11e1-f4d9-4a83-82aa-e039a672db9f">  <img height="400" alt="截屏2023-05-13 16 59 17" src="https://git.arts.ac.uk/storage/user/588/files/5e2d2eec-501c-4740-be75-c40a8f08a8d0">
 
-## image processing(2)
+## (2)
 
 Mimic: https://mimicproject.com/code/2e10d19e-e697-da7c-2f40-1962552f1bc4
 
